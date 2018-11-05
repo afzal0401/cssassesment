@@ -16,7 +16,7 @@ h1{
  li{
     list-style-type: none;
     display: inline-block;
-     min-width: 150px;
+     min-width: 130px;
      text-align: center;
      padding-top: 20px;
 }
@@ -79,7 +79,7 @@ float: left;
 .pre1{
     position: absolute;
     left: 320px;
-    top: 640px;
+    top: 660px;
     text-align: justify;
 }
 .anchor1{
@@ -90,44 +90,47 @@ float: left;
     position:relative;
     top: 40px;
 }
+.header4{
+    margin-top: 40px;
+}
 span{
     color:brown;
 }
 .heading3{
     position: absolute;
     left: 620px;
-    top: 603px;
+    top: 625px;
 }
 
 .image3{
     position: absolute;
     left: 580px;
-    top: 640px;
+    top: 660px;
 }
 .content3{
     position: absolute;
-    top: 650px;
+    top: 670px;
     left: 750px;
 }
 
 .image4{
     position: absolute;
     left: 580px;
-    top: 730px;
+    top: 750px;
 }
 .content4{
     position: absolute;
-    top: 740px;
+    top: 760px;
     left: 750px;
 }
 .image5{
     position: absolute;
     left: 580px;
-    top: 830px;
+    top: 850px;
 }
 .content5{
     position: absolute;
-    top: 840px;
+    top: 860px;
     left: 750px;
 }
 .right{
