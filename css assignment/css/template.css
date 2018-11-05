@@ -1,0 +1,140 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    font-size: 30px;
+    font-family:cursive;
+    text-align: center;
+}
+.header{
+    height: 60px;
+    width: 95%;
+    background-color: saddlebrown;
+    margin-left: 35px;
+    
+}
+ li{
+    list-style-type: none;
+    display: inline-block;
+     min-width: 150px;
+     text-align: center;
+     padding-top: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.image{
+    background-color: white;
+    height: 260px;
+    width: 95%;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+img{
+    margin-top: 20px;
+    margin-left: 65px;
+}
+
+.left{
+   float: left;
+    height: 450px;
+    width: 250px;
+    background-color: white;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+pre{
+    text-align: center;
+}
+.anchor{
+    text-decoration: underline;
+    color: brown;
+    line-height:1.5;
+    margin-left: 10px;
+}
+.middle{
+    float: left;
+    width: 700px;
+    height: 530px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+h3{
+    text-indent: 25px;
+   
+}
+}
+.image2{
+float: left;
+}
+.prebody{
+    position: absolute;
+    top: 500px;
+    left: 480px;
+    text-align: justify;
+}
+.pre1{
+    position: absolute;
+    left: 320px;
+    top: 640px;
+    text-align: justify;
+}
+.anchor1{
+    text-decoration: underline;
+    color: brown;
+    line-height:3;
+    margin-left: 10px;
+    position:relative;
+    top: 40px;
+}
+span{
+    color:brown;
+}
+.heading3{
+    position: absolute;
+    left: 620px;
+    top: 603px;
+}
+
+.image3{
+    position: absolute;
+    left: 580px;
+    top: 640px;
+}
+.content3{
+    position: absolute;
+    top: 650px;
+    left: 750px;
+}
+
+.image4{
+    position: absolute;
+    left: 580px;
+    top: 730px;
+}
+.content4{
+    position: absolute;
+    top: 740px;
+    left: 750px;
+}
+.image5{
+    position: absolute;
+    left: 580px;
+    top: 830px;
+}
+.content5{
+    position: absolute;
+    top: 840px;
+    left: 750px;
+}
+.right{
+    float: left;
+    height: 450px;
+    width: 250px;
+    background-color: white;
+    margin-left: 35px;
+    margin-top: 20px;
+}
